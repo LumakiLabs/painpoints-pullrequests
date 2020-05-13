@@ -6,5 +6,7 @@ Fatimah Areola and Carla Leal are your hosts for Pain Points and Pull Requests, 
 Pain Points and Pull Requests is offered by Lumaki Labs, a STEM education impact studio geared towards helping the STEM ecosystem grow. Find out more about [Lumaki Labs](https://www.lumakilabs.com/)
 
 ## Check us out on:  
+[Apple Podcasts](https://podcasts.apple.com/ca/podcast/pain-points-pull-requests/id1512674230)  
 [Spotify](https://open.spotify.com/show/4JyFUDXdLFJFvKVWGrqBcn)  
 [PodBean](https://lumakilabs.podbean.com/)
+
