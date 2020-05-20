@@ -1,0 +1,15 @@
+* Show Notes
+  In this episode of Pain Points and Pull Requests, Fatimah and Carla discuss how they get ready for new internships! From setting expectations for the term to studying new tools, listen to this episode to hear
+about what they like to do to prepare for successful terms.
+** What you'll learn
+*** 6:38 Researching the company you will work for
+*** 10:46 Updating your personal profiles
+*** 12:25 Studying your company's tech stach
+*** 15:44 Gitflow
+*** 19:06 Jenkins
+*** 23:22 Things to setup at the beginning of the term
+** More Resources
+*** Jenkins Introduction
+    https://www.youtube.com/watch?v=LFDrDnKPOTg&t=884s
+*** Gitflow Introduction
+    https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
