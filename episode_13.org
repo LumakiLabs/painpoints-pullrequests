@@ -1,0 +1,12 @@
+* Show Notes
+In this Episode of Pain Points and Pull Requests, Fatimah and Carla are joined by their dads! To celebrate father's day, the girls sit down 
+with their dads to discuss what they do in the tech space, their favourite techniques and tools.
+
+** Things You'll learn
+*** 3:37 What is devops
+*** 7:56 Software Engineering for AI
+*** 8:56 What a pipeline is
+*** 20:53 Program management vs product management
+*** 28:40 Product management
+*** 34:15 Agile
+
