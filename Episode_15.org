@@ -1,0 +1,13 @@
+* Show Notes
+In this episode of Pain Points and Pull Requests, Fatimah and Carla are joined by Zach Ingbretsen to discuss the Phoeinx Project book! Zach Ingbretsen is passionate about using DevOps practices to improve his effectiveness as a data scientist.  In this episode, he helps the girls break down some of the most important lessons from one of the most well-recognized books about DevOps.
+
+** What you'll learn
+* 1:30 The Phoenix Project
+* 12:10 Devops and Data Science
+* 18:30 The Different Types of Work
+* 27:45 The Three Ways
+* 51:20 Fatimah's Takeaways
+
+** Resources mentioned:
+* Using DevOps at home:
+https://devops.com/homeops-learning-devops-home/amp/?fbclid=IwAR2L1WHgOntP5SPZ2BK87gPSYwqiindnjJklSkXuR1Ui10yb08G9riv2eGM
