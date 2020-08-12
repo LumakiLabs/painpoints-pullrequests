@@ -1,0 +1,19 @@
+* Show Notes
+In this episode of Pain Points & Pull Requests, Fatimah and Carla talk Zoom! The application has gained millions of new users over the pandemic and with that has come many new challenges for the company. Join the hosts for a short discussion on the application's design and architecture!
+
+** More informationa:
+
+4:56: Real-time video sharing
+8:45: Zoom's architecture
+12:03: Was Zoom prepared?
+20:35: How do you set the scope for your requirements?
+
+
+
+** More information 
+*** WebRTC vs Zoom
+https://insights.enablex.io/webrtc-vs-zoom/#:~:text=Both%20Zoom%20app%20and%20WebRTC,seconds%20that%20WebRTC%20A%20needed.
+*** Zoom architecture
+https://blog.zoom.us/zoom-can-provide-increase-industry-leading-video-capacity/
+*** How Zoom works
+http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html#:~:text=Zoom%20sees%20their%20architecture%20as%20a%20competitive%20advantage.&text=Zoom%20chose%20the%20SVC%20(Scalable,have%20to%20send%20multiple%20streams.
