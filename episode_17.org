@@ -1,0 +1,17 @@
+* Show Notes
+  In this episode of Pain Points & Pull Requests, Fatimah and Carla discuss how they think about the gender gap in STEM industries. They take a crack at describing
+the gender gaps, the risks associated with not reducing these gaps and the assumptions on what causes them. Listen to this episode to hear about how you can approach unpacking this exptremely important and relevant issue.
+
+** Time Stamps
+*** 1:03 Why we chose to talk about the gender gap
+*** 4:43 How can we describe the gender gaps in STEM fields
+*** 13:47: What are the risks associated with not addressing these gaps
+*** 20:00 Our assumptions about what causes the gaps
+
+** Our Resources
+*** Gender Differences in STEM prograns at University
+    https://www150.statcan.gc.ca/n1/pub/75-006-x/2013001/article/11874-eng.htm
+*** Quiz to test for implicit bias
+    https://implicit.harvard.edu/implicit/takeatest.html
+*** The impact of gender stereotypes on Secondary Student's career aspirations
+    https://www.frontiersin.org/articles/10.3389/feduc.2019.00060/full#h8
