@@ -1,0 +1,17 @@
+* Shownotes
+In this episode of Pain points and pull requests, Fatimah and Carla discuss how they sliced and diced Youtube trending page and channel data to generate some interesting insights. They go over what targets they’d use to measure their success in producing content based on what they learned from their exploratory data analysis of these datasets. They also talk about the model they produced and what they did to make it perform better than other models used to predict the same target variable. 
+** Time Stamps
+5:50 Insights from the exploratory data analysis 
+15:10 A discussion on the data and the model that was used
+** Extra Resources
+Kaggle (A platform where you can find lots of Data Science resources and datasets)
+https://www.kaggle.com/
+
+Trending Page Dataset (Note, we mistakenly said the source was youtube, it’s actually scraped off of Youtube and you can see the source code for that scraper linked on this page)
+https://www.kaggle.com/datasnaek/youtube-new
+
+Youtube Channel Data
+https://www.kaggle.com/babikov/youtube-channels-100000
+
+Exploratory Data Analysis and Linear Regression
+https://github.com/CarlaLeal/Youtube-Video-Views-Prediction/blob/master/youtube-dataset.ipynb
